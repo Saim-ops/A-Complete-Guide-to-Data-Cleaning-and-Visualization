@@ -1,5 +1,7 @@
 A Complete Guide to Data Cleaning and Visualization
-Welcome to A Complete Guide to Data Cleaning and Visualization! This project is designed to be your comprehensive resource for mastering data cleaning and visualization techniques using Python.
+Welcome to A Complete Guide to Data Cleaning and Visualization! 
+
+This project is designed to be your comprehensive resource for mastering data cleaning and visualization techniques using Python.
 
 Project Goal
 The primary goal of this project is to provide a detailed, step-by-step guide to help you transform raw, messy data into clean, insightful visualizations. By following this guide, you’ll learn how to handle common data issues and create compelling visual representations of your data.
