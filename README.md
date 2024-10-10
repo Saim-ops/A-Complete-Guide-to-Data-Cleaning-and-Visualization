@@ -30,5 +30,5 @@ Explore the tutorials in the notebooks directory to learn how to clean and visua
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-Author:
-SAIM MEHDI.
+
+BY SAIM MEHDI.
