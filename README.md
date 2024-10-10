@@ -17,8 +17,8 @@ NumPy: For numerical operations.
 Matplotlib: For creating static visualizations.
 Seaborn: For statistical data visualization.
 Plotly: For interactive visualizations.
-Target Audience
 
+Target Audience
 This guide is perfect for:
 Data Analysts: Seeking to improve the quality and clarity of their data presentations.
 Students: Studying data science or related fields and needing practical, hands-on experience.
@@ -30,4 +30,5 @@ Explore the tutorials in the notebooks directory to learn how to clean and visua
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-WRITTEN BY SAIM MEHDI.
+Author
+SAIM MEHDI.
